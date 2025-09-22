@@ -1,14 +1,9 @@
 ![logo](https://github.com/JTastico/JTastico/blob/master/yo.png?raw=true)
-<h1 align="center">Hi 👋, I'm Arjun Singh</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsingh27" /> </p>
+<h1 align="center">Hi 👋, I'm Jamil Turpo</h1>
+<h3 align="center">A passionate full Stack developer from Peru</h3>
 
 </a>
 
-
-# <a href="https://github.com/JTastico"><im width="200px" height="200px" alt="Sunflower"></a>
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
