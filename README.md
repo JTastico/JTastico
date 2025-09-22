@@ -1,3 +1,4 @@
+<a href="https://github.com/SophieNguyen113"><img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Sophie Nguyen 🌻 
 <div align="Center">
 <h1>Skills</h1>
 </div>
