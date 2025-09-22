@@ -15,19 +15,32 @@
 
 <div align="Center">
 
-| Website | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,py,node,aws"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+| **Frontend**                                                                                                                        | **Backend**                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap,styledcomponents,vuetify,threejs"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,laravel,dotnet,spring,prisma,graphql,sequelize"/> |
+
+| **Lenguajes**                                                                   | **Bases de Datos**                                                                 |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=js,ts,py,c,cs,java,php,kotlin,swift"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,dynamodb"/> |
+
+| **Infraestructura / DevOps**                                                                                            | **Testing / QA**                                         |
+| ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,vercel,supabase,git,github,githubactions,gitlab"/> | <img src="https://skillicons.dev/icons?i=jest,postman"/> |
+
+| **Diseño / UI**                                            | **IDEs / Editores**                                                                         |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai"/> | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,phpstorm,pycharm,rider,idea"/> |
+
+| **Otros**                                                                                            | **Motores / 3D**                                         |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=firebase,notion,wordpress,gmail,linkedin,twitter,discord"/> | <img src="https://skillicons.dev/icons?i=unity,unreal"/> |
 
 
-<br>
-<br>
-<br>
+| **Operating Systems** |
+| ------------- |
+| <img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/> |
 
-<div align="Center">
-<h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
 
 </div>
 
