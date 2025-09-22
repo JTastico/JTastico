@@ -46,3 +46,31 @@
 
 <br>
 <br>
+
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:jamil.turpo@tecsup.edu.pe"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/jamilturpo/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/JamilTurpo"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://github.com/JTastico"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JTastico&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JTastico&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+## ☕ About Me
+
+- 🌎 From **Peru** 🇵🇪  
+- 🎯 Passionate about **Full Stack Development, AI and Cloud**  
+- 💡 Always learning new **frameworks, languages, and tools**  
+- 🎮 Gamer at heart & tech enthusiast  
+
+---
