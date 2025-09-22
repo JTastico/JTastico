@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsingh27" /> </p>
 
-- 🌱 I’m currently learning ** React **
-- <a target="_blank" align="center">
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Jamil+Turpo)](https://git.io/typing-svg)
