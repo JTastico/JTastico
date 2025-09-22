@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="mailto:jamil.turpo@tecsup.edu.pe"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/jamilturpo/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/turpojamil/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com/JamilTurpo"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://github.com/JTastico"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
