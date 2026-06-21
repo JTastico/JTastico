@@ -38,7 +38,7 @@
 
 | **Operating Systems** |
 | ------------- |
-| <img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/> |
+| <img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu,macos"/> |
 
 
 
